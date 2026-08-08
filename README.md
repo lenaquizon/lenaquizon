@@ -14,6 +14,10 @@
 - HTML
 - CSS
 - Basic JavaScript
+- Python
+- C#
+- Java
+- PHP
 - Git & GitHub
 - Microsoft Office
 - Basic Networking
